@@ -1,6 +1,7 @@
 🎉🎉🎉Welcome to our new news website! We're excited to have you here.
 
 We have redeveloped our website to offer you a seamless news reading experience. With the latest technology, we are now using the new News API to view and access different news articles from various sources.
+[News](https://silver094.github.io/News/)
 
 📰 Our Website Offers:
 
