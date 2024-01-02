@@ -3,6 +3,7 @@
 We have redeveloped our website to offer you a seamless news reading experience. With the latest technology, we are now using the new News API to view and access different news articles from various sources.
 
 Due to resttriction from "newsapi.org" it will work locally only.
+
 📰 Our Website Offers:
 
 A comprehensive range of news articles from reliable sources
